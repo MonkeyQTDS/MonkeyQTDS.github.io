@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://monkeyqtds.github.io</id>
+    <title>MonkeyQTDS</title>
+    <updated>2021-08-23T06:17:55.264Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://monkeyqtds.github.io"/>
+    <link rel="self" href="https://monkeyqtds.github.io/atom.xml"/>
+    <logo>https://monkeyqtds.github.io/images/avatar.png</logo>
+    <icon>https://monkeyqtds.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, MonkeyQTDS</rights>
+</feed>
